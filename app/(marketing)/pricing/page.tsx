@@ -4,11 +4,9 @@ import { CheckCircle2, XCircle } from 'lucide-react';
 
 export default function PricingPage() {
   return (
-    <div className="container mx-auto px-4 py-12 text-white">
+    <div className="container mx-auto px-4 py-12">
       <div className="max-w-2xl mx-auto text-center mb-16">
-        <h1 className="text-4xl font-bold mb-4 text-white">
-          Simple, Transparent Pricing
-        </h1>
+        <h1 className="text-4xl font-bold mb-4">Simple, Transparent Pricing</h1>
         <p className="text-xl text-gray-400 dark:text-gray-300">
           Choose the plan that&apos;s right for you and your team
         </p>
